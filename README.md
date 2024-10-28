@@ -19,11 +19,20 @@ I enjoy the process of finding and implementing solutions to problems, driven by
 
 ## Relevant technologies:
 ### Coding
+#### JavaScript(Generic)
+Libraries:
+- [Tailwindcss](https://tailwindcss.com/)
+- [Sass](https://sass-lang.com/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [Boostrap](https://getbootstrap.com/)
+  
 #### ReactJS
 Frameworks:
 - [Remix Run](https://github.com/remix-run/remix)
 - [Vite](https://github.com/vitejs/vite)
 - [NextJS](https://nextjs.org/)
+- [Gatsby JS](https://www.gatsbyjs.com/)
 - [React Native (Expo)](https://github.com/expo/expo)
 
 Libraries:
@@ -61,7 +70,8 @@ Libraries:
 
 #### Java
 Frameworks:
-- [Spring Boot](https://spring.io/projects/spring-boot) 
+- [Spring Boot](https://spring.io/projects/spring-boot)
+  
 Libraries:
 - Spring Data JPA
 - Spring Web
