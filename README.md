@@ -38,51 +38,53 @@ Libraries:
 #### NodeJS
 Libraries:
 - [Express](https://github.com/expressjs/express)
-- [Hono]()
-- [Passport]()
-- [Socket]().io
-- [Bcrypt]()
-- [TypeORM]()
-- [Prisma]()
-- [Axios]()
+- [Hono](https://github.com/honojs/hono)
+- [Passport](https://www.passportjs.org/)
+- [Socket.io](https://socket.io/)
+- [Bcrypt](https://github.com/dcodeIO/bcrypt.js)
+- [TypeORM](https://github.com/typeorm/typeorm)
+- [Prisma](https://github.com/prisma/prisma)
+- [Axios](https://github.com/axios/axios)
 
 #### Angular
 Libraries:
-- [Prime NG]()
-- [Material UI]()
-- [OpenID]()
-- [Leaflet]()
-- [Socket.io]()
+- [Prime NG](https://primeng.org/)
+- [Material UI](https://mui.com/)
+- [OpenID](https://github.com/damienbod/angular-auth-oidc-client)
+- [Leaflet](https://github.com/bluehalo/ngx-leaflet)
+- [Socket.io](https://socket.io/)
 
 #### Python
 Libraries:
-- [Pyusb]()
-- [Fastapi]()
+- [Pyusb](https://github.com/pyusb/pyusb)
+- [Fastapi](https://github.com/fastapi)
 
 #### Java
 Frameworks:
-- [Spring Boot]() 
+- [Spring Boot](https://spring.io/projects/spring-boot) 
 Libraries:
-- [Spring Data JPA]()
-- [Spring Web]()
-- [Spring Devtools]()
-- [Swagger]()
-- [usb4java]()
+- Spring Data JPA
+- Spring Web
+- Spring Devtools
+- Swagger
+- [usb4java](https://github.com/usb4java/usb4java)
 
 -----------
 
 ## Relevant PaaS:
-- [GitHub]()
-- [Gitlab ]()
-- [Bitbucket ]()
-- [Jenkins]()
-- [Jira]()
-- [OpenProject]()
+- GitHub
+- Gitlab
+- Bitbucket
+- Jenkins
+- Jira
+- OpenProject
 
 ## Relevant tools:
-- [Vi, Vim, NeoVim, LazyVim]()
-- [LazyGit]()
-- [Visual Studio Code]()
-- [PyCharm]()
-- [Android Studio ]()
-- [Docker Desktop ]()
+- [Vim](https://github.com/vim/vim)
+- [NeoVim](https://github.com/neovim/neovim)
+- [LazyVim](https://github.com/LazyVim/LazyVim)
+- [LazyGit](https://github.com/jesseduffield/lazygit)
+- [Visual Studio Code](https://github.com/microsoft/vscode)
+- PyCharm
+- Android Studio
+- Docker Desktop
