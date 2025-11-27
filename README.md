@@ -1,43 +1,40 @@
-## 👋 Hey! Welcome to my GitHub
-
-**Full Stack Engineer** · **TypeScript-first**  
-Building scalable products with, **React or Angular**, and **Node.js or Spring Boot** — where great UX meets clean architecture.
-
----
-
-### 🚀 What I Do
-
-- Build **full-stack web applications** from prototype to production   
-- Focus on **DX**, automation, and performance  
-- Turn complex ideas into **simple & delightful** user experiences  
+## 👋 Hey! I’m Matteo Veraldi
+ 
+I work full-time as full stack developer for enterprise web applications since 2020.
 
 ---
 
-### 🛠️ Tech I Enjoy Working With
-
-**Core Stack**  
-> **TypeScript**, **React Router 7 (Remix)**, **React**, **Node.js**, **Prisma.io**, **Docker**
-
-**Also played with**  
-FastAPI · Leaflet · WebSockets · USB Accessories  
-CI/CD · Tailwind CSS  
+### 🎯 What I’m Good At
+- Making **smart architectural decisions**: maintainable, and cost-effective
+- **UX-first mindset**: every feature must feel clear and intuitive
+- Improving **DX and team velocity** through tooling and automation
+- **AI-assisted** to ship faster without compromising on quality
 
 ---
 
-### 📌 Currently Building
+### 🔨 Tech I Work With
+**Stack**  
+- TypeScript · React · NodeJS · SQL · Docker
+- Angular · Express · Socket.IO · Redis
+- Python · PyUSB · PySide · FastAPI
 
-- 🕸️ **Cisco COSM**  
-  Cisco Optical Site Monitoring — React + GoJS + Redux + Tanstack Query (and more). 
-  _Role: Frontend Developer
+**Interesting libraries I work with** 
+- GoJS
+- Redux
+- Tanstack Query
+- ShadCN
+- Prisma.IO
+- Zustand
 
 ---
 
-### ✨ Other Projects
+### ✨ Highlights
+- Shipped real products to production in **enterprise environments**
+- Ownership from **architecture → development → deployment**
+- Strong collaboration with **designers, PMs, and stakeholders**
 
-- 🗳️ **Android Device Manager**  
-  30+ Android devices connected via USB + interactive web dashboard  
-  _Role: Full stack — architecture, frontend & backend and Raspberry Pi_
+---
 
-- 🌊 *WMS**
-  Water Management System - Angular + Leaflet + Keycloak (and more).
-  _Role: Frontend Developer
+### 🔒 About This GitHub
+Most of my real work is protected by **NDAs**, so you won’t see that code here.  
+What you’ll find instead are **contributions** and **experiments**.
